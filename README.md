@@ -28,22 +28,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lazeusi&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 ✨ My main projects will appear here soon...  
 Stay tuned 😉
 
 ---
 
-## 🐍 Snake Contribution Graph
+## 📈 GitHub Activity Graph (3D-ish)
 <p align="center">
-  <img src="https://github.com/Lazeusi/Lazeusi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Lazeusi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6C6C&area_color=3C4048" />
 </p>
 
 ---
