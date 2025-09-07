@@ -34,13 +34,6 @@ Stay tuned 😉
 
 ---
 
-## 📈 GitHub Activity Graph (3D-ish)
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Lazeusi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6C6C&area_color=3C4048" />
-</p>
-
----
-
 ## ⚡ Fun Zone
 - 🎮 Gamer at night, Developer by day  
 - ☕ Coffee = Coding Fuel  
@@ -54,16 +47,7 @@ Stay tuned 😉
 
 ## 📬 Contact
 <p align="center">
-  <a href="mailto:mrlazeusi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lazeusi&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  ✉️ mrlazeusi@gmail.com
 </p>
 
 <!-- Footer -->
