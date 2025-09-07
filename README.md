@@ -28,15 +28,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazeusi&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lazeusi&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazeusi&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lazeusi&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
@@ -53,13 +44,6 @@ Stay tuned 😉
 ## 🐍 Snake Contribution Graph
 <p align="center">
   <img src="https://github.com/Lazeusi/Lazeusi/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazeusi&theme=tokyo-night" />
 </p>
 
 ---
