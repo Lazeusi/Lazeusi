@@ -20,10 +20,10 @@
 
 ---
 
-## 🏗 Frameworks
+
+## 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,tailwind" height="40" />
-  <img src="https://raw.githubusercontent.com/aiogram/aiogram/master/docs/source/_static/aiogram-logo.png" height="40" alt="Aiogram" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts" height="40" />
 </p>
 
 ## 🏗 Frameworks
