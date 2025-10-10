@@ -22,12 +22,12 @@
 
 ## 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts" />
 </p>
 
 ## 🏗 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,tailwind,aiogram" />
 </p>
 
 ## 🛠 Tools
