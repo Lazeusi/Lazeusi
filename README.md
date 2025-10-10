@@ -27,7 +27,8 @@
 
 ## 🏗 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,tailwind,aiogram" />
+  <img src="https://skillicons.dev/icons?i=django,tailwind" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Aiogram_logo.png" width="40" height="40" />
 </p>
 
 ## 🛠 Tools
