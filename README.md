@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 - 🤖 Experienced in **building Telegram Bots using Aiogram**  
-- 🔭 Currently working with **Django**, **TypeScript**, and **Aiogram**  
+- 🔭 Currently working with **React**, **TypeScript**, and **Aiogram**  
 - 🌱 Always learning new tools, frameworks, and backend automation  
 - 💬 Ask me about **Web Development**, **Bot Development**, or **Git**  
 - ⚡ Focused on writing clean, scalable, and efficient code  
@@ -28,7 +28,6 @@
 ## 🏗 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,tailwind,react" height="40" />
-  <img src="https://raw.githubusercontent.com/aiogram/aiogram/master/docs/source/_static/aiogram-logo.png" height="40" alt="Aiogram" />
 </p>
 
 ## 🛠 Tools
