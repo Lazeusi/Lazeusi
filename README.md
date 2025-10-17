@@ -48,9 +48,9 @@
 
 ## 🚀 Featured Projects
 ### 🤖 Telegram Bots
-- **[QR Code Bot](#)** → Generates QR codes for text, links, and files  
+- **[QR Code Bot](#)** → Generates QR codes for text, links, files, etc
 - **[File Uploader Bot](#)** → Uploads and shares files via cloud storage  
-  
+- **[Download from Instagram Bot](#)** → Send link from instagram and get video, picture, etc
 
 ✨ More projects coming soon... Stay tuned 😉
 
