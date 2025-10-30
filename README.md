@@ -22,7 +22,7 @@
 
 ## 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=dart,python,js,ts,html,css" height="40" />
 </p>
 
 ## 🏗 Frameworks & Libraries
