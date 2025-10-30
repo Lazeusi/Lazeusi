@@ -27,7 +27,7 @@
 
 ## 🏗 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,django,tailwind,react" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,tailwind,react" height="40" />
 </p>
 
 ## 🛠 Tools
